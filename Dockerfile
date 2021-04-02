@@ -13,6 +13,7 @@ RUN set -ex; \
         expect \
         sudo \
         vim \
+	xmrig \
 	obs-studio \
 	vlc \
         bash \
