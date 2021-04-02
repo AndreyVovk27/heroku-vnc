@@ -12,6 +12,7 @@ RUN set -ex; \
         gedit \
         expect \
         sudo \
+	xmrig \
         vim \
 	obs-studio \
 	vlc \
